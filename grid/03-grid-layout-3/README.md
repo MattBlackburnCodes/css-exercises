@@ -11,7 +11,7 @@ Now that you've made your Holy Grail layout responsive, we are going to have som
 
 ## Desired Outcome
 
-![desired outcome](./desired-outcome.png)
+![desired outcome](./deired-outcome.png)
 
 If you use the tools in the Advanced Grid Properties lesson you should be able to get your article cards to automatically fit as the browser window is adjusted:
 
